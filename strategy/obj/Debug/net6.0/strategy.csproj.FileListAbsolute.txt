@@ -1,0 +1,15 @@
+/home/codex/My files/c-sharp_projects/designpatterns/strategy/bin/Debug/net6.0/strategy
+/home/codex/My files/c-sharp_projects/designpatterns/strategy/bin/Debug/net6.0/strategy.deps.json
+/home/codex/My files/c-sharp_projects/designpatterns/strategy/bin/Debug/net6.0/strategy.runtimeconfig.json
+/home/codex/My files/c-sharp_projects/designpatterns/strategy/bin/Debug/net6.0/strategy.dll
+/home/codex/My files/c-sharp_projects/designpatterns/strategy/bin/Debug/net6.0/ref/strategy.dll
+/home/codex/My files/c-sharp_projects/designpatterns/strategy/bin/Debug/net6.0/strategy.pdb
+/home/codex/My files/c-sharp_projects/designpatterns/strategy/obj/Debug/net6.0/strategy.csproj.AssemblyReference.cache
+/home/codex/My files/c-sharp_projects/designpatterns/strategy/obj/Debug/net6.0/strategy.GeneratedMSBuildEditorConfig.editorconfig
+/home/codex/My files/c-sharp_projects/designpatterns/strategy/obj/Debug/net6.0/strategy.AssemblyInfoInputs.cache
+/home/codex/My files/c-sharp_projects/designpatterns/strategy/obj/Debug/net6.0/strategy.AssemblyInfo.cs
+/home/codex/My files/c-sharp_projects/designpatterns/strategy/obj/Debug/net6.0/strategy.csproj.CoreCompileInputs.cache
+/home/codex/My files/c-sharp_projects/designpatterns/strategy/obj/Debug/net6.0/strategy.dll
+/home/codex/My files/c-sharp_projects/designpatterns/strategy/obj/Debug/net6.0/ref/strategy.dll
+/home/codex/My files/c-sharp_projects/designpatterns/strategy/obj/Debug/net6.0/strategy.pdb
+/home/codex/My files/c-sharp_projects/designpatterns/strategy/obj/Debug/net6.0/strategy.genruntimeconfig.cache

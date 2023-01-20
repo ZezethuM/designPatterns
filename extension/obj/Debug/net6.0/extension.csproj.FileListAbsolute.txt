@@ -1,0 +1,15 @@
+/home/codex/My files/c-sharp_projects/designpatterns/extension/bin/Debug/net6.0/extension
+/home/codex/My files/c-sharp_projects/designpatterns/extension/bin/Debug/net6.0/extension.deps.json
+/home/codex/My files/c-sharp_projects/designpatterns/extension/bin/Debug/net6.0/extension.runtimeconfig.json
+/home/codex/My files/c-sharp_projects/designpatterns/extension/bin/Debug/net6.0/extension.dll
+/home/codex/My files/c-sharp_projects/designpatterns/extension/bin/Debug/net6.0/ref/extension.dll
+/home/codex/My files/c-sharp_projects/designpatterns/extension/bin/Debug/net6.0/extension.pdb
+/home/codex/My files/c-sharp_projects/designpatterns/extension/obj/Debug/net6.0/extension.csproj.AssemblyReference.cache
+/home/codex/My files/c-sharp_projects/designpatterns/extension/obj/Debug/net6.0/extension.GeneratedMSBuildEditorConfig.editorconfig
+/home/codex/My files/c-sharp_projects/designpatterns/extension/obj/Debug/net6.0/extension.AssemblyInfoInputs.cache
+/home/codex/My files/c-sharp_projects/designpatterns/extension/obj/Debug/net6.0/extension.AssemblyInfo.cs
+/home/codex/My files/c-sharp_projects/designpatterns/extension/obj/Debug/net6.0/extension.csproj.CoreCompileInputs.cache
+/home/codex/My files/c-sharp_projects/designpatterns/extension/obj/Debug/net6.0/extension.dll
+/home/codex/My files/c-sharp_projects/designpatterns/extension/obj/Debug/net6.0/ref/extension.dll
+/home/codex/My files/c-sharp_projects/designpatterns/extension/obj/Debug/net6.0/extension.pdb
+/home/codex/My files/c-sharp_projects/designpatterns/extension/obj/Debug/net6.0/extension.genruntimeconfig.cache
